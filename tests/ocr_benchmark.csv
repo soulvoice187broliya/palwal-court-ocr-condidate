@@ -1,0 +1,6 @@
+image,court_area,expected_order_type,expected_next_hearing_ddmmyyyy,expected_issue_date_ddmmyyyy,expected_fir_no_year,expected_police_station,ocr_engine,notes
+1000156931.jpg,Palwal,NON BAILABLE WARRANT,12/10/2026,07/10/2026,056/2016,PS CAMP PALWAL,Tesseract English psm6,Manual visual ground truth; not the app/Cloud Vision output
+1000156367.jpg,Palwal,BAILABLE WARRANT,16/12/2026,07/10/2026,444/2024,PS CAMP PALWAL,Tesseract English psm6,Manual visual ground truth; not the app/Cloud Vision output
+1000156609.jpg,Palwal,BAILABLE WARRANT,13/10/2026,05/10/2026,201/2023,PS CHANDHUT,Tesseract English psm6,Manual visual ground truth; not the app/Cloud Vision output
+1000158275.jpg,Bhiwani - negative control,SUMMONS,19/10/2026,20/06/2026,63/2025,PS BHIWANI CIVIL LINES,Tesseract English psm6,Manual visual ground truth; not the app/Cloud Vision output
+1000158277.jpg,Bhiwani - negative control,SUMMONS,16/10/2026,28/09/2026,18/2024,PS BHIWANI CIVIL LINES,Tesseract English psm6,Manual visual ground truth; not the app/Cloud Vision output
