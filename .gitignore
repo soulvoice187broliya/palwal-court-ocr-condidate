@@ -1,0 +1,9 @@
+/build/
+/.dart_tool/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/packages/
+/android/.gradle/
+/android/local.properties
+*.jks
+key.properties
