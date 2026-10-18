@@ -1,0 +1,1 @@
+# palwal-court-ocr-condidate
